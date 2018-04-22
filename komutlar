@@ -1,0 +1,372 @@
+    1  pwd 
+    2  ls
+    3  cd Downloads/
+    4  mkdir sultan
+    5  ls
+    6  ls
+    7  touch sultan.txt
+    8  ls
+    9  ls -alh
+   10  ls -l
+   11  ls -h
+   12  ls -a
+   13  gedit sultan.txt
+   14  cat sultan.txt
+   15  more sultan.txt
+   16  less sultan.txt
+   17  gedit sultan.txt
+   18  less sultan.txt
+   19  gedit sultan.txt
+   20  gedit sultan.txt
+   21  gedit sultan.txt
+   22  gedit sultan.txt
+   23  ls 
+   24  cd sultan
+   25  gedit sultan.txt 
+   26  gedit sultan.txt
+   27  cd ..
+   28  cd ..
+   29  cd Desktop/
+   30  mkdir sultan
+   31  cd ..
+   32  mkdir sultan
+   33  touch sultan.txt
+   34  mv sultan.txt sultan
+   35  mv sultan.txt sult
+   36  mv sultan.txt sult.txt
+   37  cd sultan
+   38  mv sultan.txt sult.txt
+   39  rm -r sultan
+   40  rm -r sultan
+   41  rm sultan.txt
+   42  rm sult.txt
+   43  rm -r sultan
+   44  rm -rf sultan
+   45  cd ..
+   46  ls
+   47  rm -r sultan
+   48  mkdir sultan
+   49  rm -r sultan
+   50  mkdir sultan
+   51  touch sultan.txt
+   52  mv sultan.txt sultan
+   53  cp sultan Desktop
+   54  cp -r sultan Desktop
+   55  cd sultan
+   56  ls
+   57  ls -alh
+   58  sultan ls -l
+   59  sultan -l
+   60  sultan ls -alh
+   61  ls -lh
+   62  cd ..
+   63  mkdir güvenbas.txt
+   64  mv güvenbas.txt sultan
+   65  cd sultan
+   66  cd ..
+   67  ls
+   68  cd sultan/
+   69  chmod 777 sultan.txt
+   70  ls -l
+   71  chmod u-w sultan.txt
+   72  ls -l
+   73  chmod u-r sultan.txt 
+   74  ls -l
+   75  chmod 777 sultan.txt
+   76  ls -l
+   77  cd ..
+   78  man tar
+   79  python3
+   80  apt-get install git
+   81  cd Desktop/
+   82  mv Untitled\ Document\ 1  sult
+   83  ls
+   84  cd
+   85  python3 sult.py
+   86  python3 sult
+   87  cd Desktop/
+   88  python3 sult
+   89  git add sultan
+   90  mv sultan.txt Desktop
+   91  cd
+   92  cd sultan
+   93  mv sultan.txt Documents
+   94  mv Documents sultan.txt
+   95  git clone https://github.com/sultanguvenbas/first.git
+   96  cd
+   97  cd first
+   98  cd first
+   99  ls
+  100  cd sultan
+  101  ls
+  102  cd first
+  103  git add sultan.txt
+  104  git config --globaluser.email "sultanguvenbas@gmail.com"
+  105  git config --global user.email "sultanguvenbas@gmail.com"
+  106  git config --global user.name "sultanguvenbas"
+  107  git commit -m sultan.txt
+  108  git push -u origin master
+  109  python3
+  110  python3
+  111  python3
+  112  cd Desktop
+  113  mkdir Sultaaaaaaan
+  114  cd Sultaaaaaaan/
+  115  touch aad
+  116  mv aad ..
+  117  cd ..
+  118  ls
+  119  mv aad ~
+  120  cd ..
+  121  ls
+  122  mv aad Desktop/Sultaaaaaaan/
+  123  mv Desktop/Sultaaaaaaan/ ~
+  124  CD ..
+  125  cd ..
+  126  ls
+  127  ls s[ultan]
+  128  ls {caglarer}
+  129  su
+  130  cd u.korkmaz16/
+  131  ls
+  132  ls -l
+  133  cd ..
+  134  ls -l
+  135  cd c.demir10
+  136  cd mkarakoca11/
+  137  ls
+  138  ls
+  139  Is/bin/usr|sort|uniq|wc-|
+  140  date
+  141  cal
+  142  whoami
+  143  nano
+  144  chmod +x sultan.sh
+  145  ./sultan.sh
+  146  nano
+  147  chmod +x sult
+  148  ./sult
+  149  nano
+  150  chmod +x su
+  151  chnod +x SU
+  152  chmod +x SU
+  153  ./SU
+  154  nano
+  155  chmod +x SA
+  156  ./SA
+  157  read -sp "enter parola" password
+  158  read -sp "enter parola" parola
+  159  read -p "enter parola " parola
+  160  echo $parola
+  161  read -sp "enter parola:"parola
+  162  echo $parola
+  163  nano
+  164  chmod +x aaa
+  165  ./aaa
+  166  nano aaa
+  167  ./aaa
+  168  :/ aaa
+  169  chmod +x aaa
+  170  :./aaa
+  171  chmod +x aaa
+  172  ./aaa
+  173  nano
+  174  chmod +x sss
+  175  ./sss
+  176  nano sss
+  177  chmod +x sss
+  178  ./sss
+  179  nano
+  180  nano sss
+  181  chmod +x sss
+  182  ./sss
+  183  nano sss
+  184  chmod +x sss
+  185  ./sss
+  186  clear
+  187  nano
+  188  chmog +x ddd
+  189  nano ddd
+  190  chmod +x ddd
+  191  ./ddd
+  192  nano ddd
+  193  nano ddd
+  194  chmod +x ddd
+  195  ./ddd
+  196  nano ddd
+  197  chmod +x ddd
+  198  ./ddd
+  199  nano ddd
+  200  chmod +x ddd
+  201  ./ddd
+  202  nano ddd
+  203  chmod +x ddd
+  204  ./ddd
+  205  nano
+  206  chmod +x yy
+  207  ./yy
+  208  ./yy.sh 4
+  209  nano yy
+  210  chmod +x yy
+  211  ./yy.sh
+  212  chmod +x yy
+  213  ./yy
+  214  nano yy
+  215  chmod +x qq
+  216  ./qq.sh 5
+  217  chmod +x qq
+  218  ./qq 5
+  219  nano yy
+  220  chmod +x yy
+  221  ./yy 5
+  222  nano yy
+  223  chmod +x yy
+  224  ./yy 5
+  225  nano
+  226  chmod +x s
+  227  ./s
+  228  nano s
+  229  chmod +x s
+  230  ./s
+  231  nano s
+  232  chmod +x s
+  233  ./s
+  234  nano
+  235  chmod +x w
+  236  ./w
+  237  nano w
+  238  chmod +x w
+  239  ./w
+  240  nano
+  241  chmod +x f
+  242  ./f
+  243  nano f
+  244  chmod +x f
+  245  ./f
+  246  nano f
+  247  chmod +x f
+  248  ./f
+  249  nano f
+  250  chmod +x f
+  251  ./f
+  252  clear
+  253  clear
+  254  env
+  255  ls && cd/etc
+  256  ls && cd /etc
+  257  ls --help
+  258  ls --version
+  259  whatis whoami
+  260  whoami
+  261  apropos print
+  262  mandb
+  263  lsb_release -a
+  264  cal
+  265  cal 1 1998
+  266  date
+  267  hostname
+  268  w
+  269  who
+  270  whoami
+  271  who -b
+  272  who -r
+  273  upline
+  274  uptime
+  275  whereisconfig
+  276  whereis config
+  277  locate.config
+  278  locate config
+  279  dmidecode
+  280  sudo dmidecode
+  281  sudo dmidecode -t 4
+  282  cat /proc/meminfo
+  283  fdisk -l
+  284  df -h
+  285  du/etc
+  286  du/etc
+  287  du /etc
+  288  du -ha /etc
+  289  free -m
+  290  stat -f
+  291  clear
+  292  cd ..
+  293  cd Desktop
+  294  cd Desktop
+  295  touch a1
+  296  cat > a1
+  297  cd Desktop
+  298  touch a1
+  299  cat > a1
+  300  cat a1
+  301  rm a1
+  302  cd ..
+  303  echo "hello"
+  304  echo ls
+  305  echo echo
+  306  echo "echo"
+  307  cd Desktop
+  308  touch a1
+  309  touch a2
+  310  cat > a1 
+  311  cd Desktop
+  312  cat > a2
+  313  paste a1 a2 
+  314  rm a1 && a2
+  315  rm a1 && rm a2
+  316  rm a2
+  317  cd ..
+  318  cd Desktop
+  319  touch a1
+  320  cat > a1 
+  321  shred -n 10 -v a1
+  322  cat a1
+  323  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+  324  shred -uv a1
+  325  touch a1
+  326  touch a2
+  327  touch a3
+  328  tar -cfile.tar a1 a2 a3
+  329  rm a1
+  330  rm a2
+  331  rm a3
+  332  tar -xvf ile.tar
+  333  gzip a1
+  334  bzip a2
+  335  bzip a1
+  336  bzip2 a1
+  337  bzip2 a1
+  338  bzip2 a2
+  339  gunzip a1
+  340  bunzip a2.bz2
+  341  bunzip2 a2.bz2
+  342  umask
+  343  chattr +i a1
+  344  chattr +i a1
+  345  lsattr 
+  346  cd ..
+  347  cat etc/shadow
+  348  ps aux
+  349  tree
+  350  ls tree
+  351  pstree
+  352  pstree -p
+  353  tap
+  354  top
+  355  pgrep firefox
+  356  kill -9 4798
+  357  firefox
+  358  clear
+  359  firefox
+  360  runlevel
+  361  ls rc*.*
+  362  cd /etc
+  363  ls rc*.*
+  364  sudo apt-get install bleachbit
+  365  cd ..
+  366  ifconfig
+  367  iwconfig
+  368  netstat
+  369  whois
+  370  whois onedio.com
+  371  history
+
